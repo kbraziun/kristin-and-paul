@@ -38,7 +38,7 @@ Test
 
 ## Specialties
 
-Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdfxuE2TDNIwbKIMo-Rt_qj1Pm84oSx4iYTWS2GIvHCyeHPrQ/viewform?embedded=true" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Experience
 
