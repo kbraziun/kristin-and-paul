@@ -7,8 +7,8 @@ widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 
-title: "👋 Hollie Beau is the Chief Data Officer at Tidbit Games in Shanghai."
-subtitle: ""
+title: "Kristin and Paul"
+subtitle: "Please join us to celebrate our marriage"
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -21,7 +21,7 @@ design:
     # color: navy
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
-    image: hello.jpg  # Name of image in `static/media/`.
+    image: together.jpg  # Name of image in `static/media/`.
     image_darken: 0.4
     image_size: cover
     image_position: right
@@ -32,38 +32,37 @@ advanced:
   css_class: fullscreen
 ---
 
-## My Mission
+After almost a decade together, we (Kristin Braziunas and Paul Boehnlein) have at decided to finally make it official and become married at a private civil ceremony in March. We would love for you (and a guest, if applicable) to join them to celebrate this news at any (or all) of three picnics.
 
-Test
+Since we have friends and family all over the country, we have decided to host several celebrations in the hope that you can attend the one that is most convenient for you. Please review the dates in the Across box and the schedule in the Down box. 
 
-## Specialties
+Please join us to eat, laugh, and share a story or two if you’d like. We would be so happy to celebrate this milestone with you.
+
+Warmest Regards,
+Kristin Braziunas and Paul Boehnlein
+
+## Dates
+
+APRIL 14TH  - MADISON, WIOLBRICH PARK PICNIC SHELTER
+APRIL 30TH  - SEATTLE, WASEWARD PARK SHELTER #2
+MAY 14TH - LA GRANGE, OHCARLISLE RESERVATIONDUCK PONDS PICNIC SHELTER
+
+## Program details
+
+GATHERING - 12-4 PM
+PICNIC LUNCH - 1 PM
+REMARKS - 2 PM
+OPEN MIC - 2:30 PM
+DRESS - PICNIC CAUSAL
+
+## RSVP
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdfxuE2TDNIwbKIMo-Rt_qj1Pm84oSx4iYTWS2GIvHCyeHPrQ/viewform?embedded=true" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-## Experience
+## Gifts
 
-### Tidbit Games
-#### Chief Data Officer • Jan 2015 - Current • Shanghai
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+In lieu of gifts, please consider making a donation to one of hte following charities...
 
+## Contact
 
-### AI Soup
-#### Research Manager • Jan 2010 - Jan 2015 • Beijing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-## Education
-
-### Tsinghua University
-#### PhD AI • Jan 2005 - Jan 2010 • Beijing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-
-## Get in Touch
-
-[{{< icon name="envelope" pack="fas" >}}Email](mailto:me@example.com)
-[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)  
-{{< icon name="weixin" pack="fab" >}}微信用户名  
-
-## Credits
-
-[Demo background image](https://unsplash.com/photos/mNSOLgnDGzA)
+[{{< icon name="envelope" pack="fas" >}}Email](mailto:paul.boehnlein@gmail.com)
