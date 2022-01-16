@@ -43,23 +43,23 @@ Kristin Braziunas and Paul Boehnlein
 
 ## Dates
 
-APRIL 14TH  - MADISON, WIOLBRICH PARK PICNIC SHELTER
-
-APRIL 30TH  - SEATTLE, WASEWARD PARK SHELTER #2
-
-MAY 14TH - LA GRANGE, OHCARLISLE RESERVATIONDUCK PONDS PICNIC SHELTER
+April 14th  - Madison, WI, Olbrich Park Picnic Shelter
+\
+April 30th  - Seattle, WA, TBD (Seward or Gasworks Park Picnic Shelter)
+\
+May 14th - La Grange, OH, Carlisle Reservation Duck Ponds Picnic Shelter
 
 ## Program details
 
-GATHERING - 12-4 PM
-
-PICNIC LUNCH - 1 PM
-
-REMARKS - 2 PM
-
-OPEN MIC - 2:30 PM
-
-DRESS - PICNIC CAUSAL
+Gathering - 12-4 PM
+-
+Picnic Lunch - 1 PM
+-
+Remarks - 2 PM
+-
+Open Mic - 2:30 PM
+-
+Dress - Picnic Casual
 
 ## RSVP
 
