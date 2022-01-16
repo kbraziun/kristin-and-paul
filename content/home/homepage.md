@@ -22,7 +22,7 @@ design:
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
     image: together.jpg  # Name of image in `static/media/`.
-    image_darken: 0.2
+    image_darken: 0.9
     image_size: cover
     image_position: center
     image_parallax: true
@@ -34,7 +34,7 @@ advanced:
 
 After almost a decade together, we (Kristin Braziunas and Paul Boehnlein) have at decided to finally make it official and become married at a private civil ceremony in March. We would love for you (and a guest, if applicable) to join them to celebrate this news at any (or all) of three picnics.
 
-Since we have friends and family all over the country, we have decided to host several celebrations in the hope that you can attend the one that is most convenient for you. Please review the dates in the Across box and the schedule in the Down box. 
+Since we have friends and family all over the country, we have decided to host several celebrations in the hope that you can attend the one that is most convenient for you. Please review the dates and RSVP below.
 
 Please join us to eat, laugh, and share a story or two if you’d like. We would be so happy to celebrate this milestone with you.
 
