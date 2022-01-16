@@ -52,13 +52,13 @@ May 14th - La Grange, OH, Carlisle Reservation Duck Ponds Picnic Shelter
 ## Program details
 
 Gathering - 12-4 PM
--
+\
 Picnic Lunch - 1 PM
--
+\
 Remarks - 2 PM
--
+\
 Open Mic - 2:30 PM
--
+\
 Dress - Picnic Casual
 
 ## RSVP
