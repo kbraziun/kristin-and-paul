@@ -22,7 +22,7 @@ design:
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
     image: together.jpg  # Name of image in `static/media/`.
-    image_darken: 0.4
+    image_darken: 0.2
     image_size: cover
     image_position: center
     image_parallax: true
@@ -44,15 +44,21 @@ Kristin Braziunas and Paul Boehnlein
 ## Dates
 
 APRIL 14TH  - MADISON, WIOLBRICH PARK PICNIC SHELTER
+
 APRIL 30TH  - SEATTLE, WASEWARD PARK SHELTER #2
+
 MAY 14TH - LA GRANGE, OHCARLISLE RESERVATIONDUCK PONDS PICNIC SHELTER
 
 ## Program details
 
 GATHERING - 12-4 PM
+
 PICNIC LUNCH - 1 PM
+
 REMARKS - 2 PM
+
 OPEN MIC - 2:30 PM
+
 DRESS - PICNIC CAUSAL
 
 ## RSVP
@@ -61,7 +67,7 @@ DRESS - PICNIC CAUSAL
 
 ## Gifts
 
-In lieu of gifts, please consider making a donation to one of hte following charities...
+In lieu of gifts, please consider making a donation to one of the following charities...
 
 ## Contact
 
