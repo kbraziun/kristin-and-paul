@@ -7,8 +7,7 @@ widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 
-title: "Paul and Kristin"
-subtitle: "Please join us to celebrate our marriage"
+title: "Kristin and Paul"
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -22,26 +21,26 @@ design:
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
     image: together.jpg  # Name of image in `static/media/`.
-    image_darken: 0.9
+    image_darken: 1.0
     image_size: cover
     image_position: center
     image_parallax: true
-    text_color_light: true
+    text_color_light: false
 advanced:
   css_style:
   css_class: fullscreen
 ---
 
-After almost a decade together, we (Kristin Braziunas and Paul Boehnlein) have at decided to finally make it official and become married at a private civil ceremony in March. We would love for you (and a guest, if applicable) to join them to celebrate this news at any (or all) of three picnics.
+We are getting married! 
 
-Since we have friends and family all over the country, we have decided to host several celebrations in the hope that you can attend the one that is most convenient for you. Please review the dates and RSVP below.
+Since we have friends and family all over the country, we have decided to host several celebrations in the hope that you can attend the one that is most convenient for you. Please join us to eat, laugh, and share a story or two if you’d like. We would be so happy to celebrate this milestone with you.
 
-Please join us to eat, laugh, and share a story or two if you’d like. We would be so happy to celebrate this milestone with you.
+Please review the dates and RSVP below.
 
-Warmest Regards,
+Love,
 Kristin Braziunas and Paul Boehnlein
 
-## Dates
+## When and Where
 
 April 14th  - Madison, WI, Olbrich Park Picnic Shelter
 \
@@ -49,13 +48,13 @@ April 30th  - Seattle, WA, TBD (Seward or Gasworks Park Picnic Shelter)
 \
 May 14th - La Grange, OH, Carlisle Reservation Duck Ponds Picnic Shelter
 
-## Program details
+## What to Expect
 
 Gathering - 12-4 PM
 \
 Picnic Lunch - 1 PM
 \
-Remarks - 2 PM
+Remarks from P & K - 2 PM
 \
 Open Mic - 2:30 PM
 \
@@ -71,4 +70,5 @@ In lieu of gifts, please consider making a donation to one of the following char
 
 ## Contact
 
-[{{< icon name="envelope" pack="fas" >}}Email](mailto:paul.boehnlein@gmail.com)
+[{{< icon name="envelope" pack="fas" >}}Paul](mailto:paul.boehnlein@gmail.com)
+[{{< icon name="envelope" pack="fas" >}}Kristin](mailto:kbraziun@gmail.com)
