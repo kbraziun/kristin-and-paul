@@ -25,7 +25,7 @@ design:
     image_size: cover
     image_position: center
     image_parallax: true
-    text_color_light: false
+    text_color_light: true
 advanced:
   css_style:
   css_class: fullscreen
