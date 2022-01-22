@@ -20,8 +20,8 @@ design:
     # color: navy
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
-    image: together.jpg  # Name of image in `static/media/`.
-    image_darken: 0.1
+    image: together  # Name of image in `static/media/`.
+    image_darken: 0.9
     image_size: cover
     image_position: center
     image_parallax: true
