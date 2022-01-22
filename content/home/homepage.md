@@ -21,7 +21,7 @@ design:
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
     image: together.jpg  # Name of image in `static/media/`.
-    image_darken: 1.0
+    image_darken: 0.1
     image_size: cover
     image_position: center
     image_parallax: true
@@ -71,4 +71,5 @@ In lieu of gifts, please consider making a donation to one of the following char
 ## Contact
 
 [{{< icon name="envelope" pack="fas" >}}Paul](mailto:paul.boehnlein@gmail.com)
+\
 [{{< icon name="envelope" pack="fas" >}}Kristin](mailto:kbraziun@gmail.com)
