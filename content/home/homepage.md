@@ -47,7 +47,7 @@ April 14th  - Madison, WI, [Burrows Park Picnic Shelter, 25 Burrows Rd](https://
 \
 April 30th  - Seattle, WA, TBD
 \
-May 14th - La Grange, OH, Carlisle Reservation Duck Ponds Picnic Shelter
+May 14th - La Grange, OH, [Carlisle Reservation Duck Ponds Picnic Shelter, 12550 Diagonal Rd](https://www.loraincountymetroparks.com/carlisle-reservation)
 
 ## What to Expect
 
@@ -57,17 +57,17 @@ Picnic Lunch - 1 PM
 \
 Remarks from P & K - 2 PM
 \
-Open Mic - 2:30 PM
+Open Mic (Please share a story or memory!) - 2:30 PM
 \
-Dress - Picnic Casual
-
-## RSVP
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdfxuE2TDNIwbKIMo-Rt_qj1Pm84oSx4iYTWS2GIvHCyeHPrQ/viewform?embedded=true" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+Dress - Outdoor Picnic Casual
 
 ## Gifts
 
 In lieu of gifts, please consider making a donation to one of the following charities...
+
+## RSVP by March 31
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdfxuE2TDNIwbKIMo-Rt_qj1Pm84oSx4iYTWS2GIvHCyeHPrQ/viewform?embedded=true" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Contact
 
