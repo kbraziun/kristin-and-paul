@@ -31,7 +31,7 @@ advanced:
   css_class: fullscreen
 ---
 
-{{< figure library="true" src="together.jpg" title="A caption" >}}
+{{< figure library="true" src="together.jpg" >}}
 
 We are getting married! 
 
@@ -44,9 +44,9 @@ Kristin Braziunas and Paul Boehnlein
 
 ## When and Where
 
-April 14th  - Madison, WI, Olbrich Park Picnic Shelter
+April 14th  - Madison, WI, Burrows Park Picnic Shelter, 25 Burrows Rd [Link](https://www.cityofmadison.com/parks/find-a-park/park.cfm?id=1148)
 \
-April 30th  - Seattle, WA, TBD (Seward or Gasworks Park Picnic Shelter)
+April 30th  - Seattle, WA, TBD
 \
 May 14th - La Grange, OH, Carlisle Reservation Duck Ponds Picnic Shelter
 
