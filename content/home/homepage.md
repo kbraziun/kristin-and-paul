@@ -31,7 +31,7 @@ advanced:
   css_class: fullscreen
 ---
 
-<img title="a title" alt="Alt text" src="featured.jpg">
+![Alt text](featured.jpg)
 
 We are getting married! 
 
