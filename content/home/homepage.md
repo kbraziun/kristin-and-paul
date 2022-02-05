@@ -31,7 +31,7 @@ advanced:
   css_class: fullscreen
 ---
 
-![Alt text](/static/media/together.jpg)
+{{< figure library="true" src="together.jpg" title="A caption" >}}
 
 We are getting married! 
 
