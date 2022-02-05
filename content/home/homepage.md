@@ -31,7 +31,7 @@ advanced:
   css_class: fullscreen
 ---
 
-{{< figure library="true" src="crossword.png" height="50px" width="50px" >}}
+{{< figure library="true" src="crossword.png" height="416px" width="500px" >}}
 
 We are getting married! 
 
