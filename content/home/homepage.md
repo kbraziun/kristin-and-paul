@@ -31,8 +31,6 @@ advanced:
   css_class: fullscreen
 ---
 
-{{< figure library="true" src="crossword.png" height="416px" width="500px" >}}
-
 We are getting married! 
 
 Since we have friends and family all over the country, we have decided to host several celebrations in the hope that you can attend the one that is most convenient for you. Please join us to eat, laugh, and share a story or two if you’d like. We would be so happy to celebrate this milestone with you.
@@ -40,7 +38,8 @@ Since we have friends and family all over the country, we have decided to host s
 Please review the dates and RSVP below.
 
 Love,
-Kristin Braziunas and Paul Boehnlein
+
+{{< figure library="true" src="crossword.png" height="416px" width="500px" >}}
 
 ## When and Where
 
