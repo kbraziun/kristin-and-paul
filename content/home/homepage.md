@@ -31,6 +31,13 @@ advanced:
   css_class: fullscreen
 ---
 
+image:
+  placement: 1
+  caption: "Test"
+  focal_point: "Center"
+  preview_only: false
+  alt_text: Test.
+
 We are getting married! 
 
 Since we have friends and family all over the country, we have decided to host several celebrations in the hope that you can attend the one that is most convenient for you. Please join us to eat, laugh, and share a story or two if you’d like. We would be so happy to celebrate this milestone with you.
