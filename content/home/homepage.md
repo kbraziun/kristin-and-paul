@@ -31,12 +31,7 @@ advanced:
   css_class: fullscreen
 ---
 
-image:
-  placement: 1
-  caption: "Test"
-  focal_point: "Center"
-  preview_only: false
-  alt_text: Test.
+<img title="a title" alt="Alt text" src="featured.jpg">
 
 We are getting married! 
 
