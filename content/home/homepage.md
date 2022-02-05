@@ -31,7 +31,7 @@ advanced:
   css_class: fullscreen
 ---
 
-![Alt text](together.jpg)
+![Alt text](/static/media/together.jpg)
 
 We are getting married! 
 
