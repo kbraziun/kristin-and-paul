@@ -31,7 +31,7 @@ advanced:
   css_class: fullscreen
 ---
 
-We are getting married! 
+After many happy years together, we are getting married! We will marry in a civil ceremony in Wisconsin in March.
 
 Since we have friends and family all over the country, we have decided to host several celebrations in the hope that you can attend the one that is most convenient for you. Please join us to eat, laugh, and share a story or two if you’d like. We would be so happy to celebrate this milestone with you.
 
@@ -63,7 +63,15 @@ Dress - Outdoor Picnic Casual
 
 ## Gifts
 
-In lieu of gifts, please consider making a donation to one of the following charities...
+In lieu of gifts, please consider making a donation to one of the following charities:
+
+[Providing Oberlin With Efficiency Responsibly (POWER)](https://www.poweroberlin.org/donate)
+
+[Feeding America](https://www.feedingamerica.org/ways-to-give)
+
+[Cleveland Clinic Cancer Patient Support Services](https://give.ccf.org/give/240491/)
+
+[Bill Long Foundation](https://www.blfoberlin.org/donating-membership)
 
 ## RSVP by March 31
 
