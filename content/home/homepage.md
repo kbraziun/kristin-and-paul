@@ -43,7 +43,7 @@ Love,
 
 ## When and Where
 
-April 14th  - Madison, WI, [Burrows Park Picnic Shelter, 25 Burrows Rd](https://www.cityofmadison.com/parks/find-a-park/park.cfm?id=1148)
+April 16th  - Madison, WI, [Burrows Park Picnic Shelter, 25 Burrows Rd](https://www.cityofmadison.com/parks/find-a-park/park.cfm?id=1148)
 \
 April 30th  - Seattle, WA, TBD
 \
