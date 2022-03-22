@@ -45,7 +45,7 @@ Love,
 
 April 16th  - Madison, WI, [Burrows Park Picnic Shelter, 25 Burrows Rd](https://www.cityofmadison.com/parks/find-a-park/park.cfm?id=1148)
 \
-April 30th  - Seattle, WA, TBD
+April 30th  - Seattle, WA, [Seward Park Picnic Shelter #3, 5895 Lake Washington Blvd](https://www.seattle.gov/documents/Departments/ParksAndRecreation/Reserve/Picnic/Seward.pdf)
 \
 May 14th - La Grange, OH, [Carlisle Reservation Duck Ponds Picnic Shelter, 12550 Diagonal Rd](https://www.loraincountymetroparks.com/carlisle-reservation)
 
